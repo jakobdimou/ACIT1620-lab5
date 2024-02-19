@@ -123,7 +123,7 @@
         order: 2;
     }
 
-   
+}
 
 @media screen and (max-width: 799px) {
     footer div {
@@ -137,5 +137,4 @@
         justify-content: center;
         align-items: center;
     }
-}
 }
